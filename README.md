@@ -4,8 +4,8 @@
 
 
 [![AGPLv3 license](https://img.shields.io/badge/License-AGPL–3.0-red.svg)](https://www.gnu.org/licenses/agpl-3.0.en.html)
-[![Total Size](https://github-size-badge.herokuapp.com/MunnaBhai-01/MissJuliaRobot.svg)](https://github.com/MissJuliaRobot/MissJuliaRobot)
-[![Python 3.8](https://img.shields.io/badge/python->=3.8.3-blue.svg)](https://www.python.org/downloads/release/python-383/)
+[![Total Size](https://github-Size-badge.herokuapp.com/MunnaBhai-01/MissJuliaRobot.svg)](https://github.com/MissJuliaRobot/MissJuliaRobot)
+[![Python 3.8](https://img.shields.io/badge/Python->=3.8.3-blue.svg)](https://www.python.org/downloads/release/python-383/)
 [![Maintenance](https://img.shields.io/badge/Maintained-yes-yellow.svg)](https://github.com/MunnaBhai-01/MissJuliaRobot)
 [![Maintained By](https://img.shields.io/badge/MaintainedBy-green.svg)](https://t.me/SarcasticLucky)
 
