@@ -16,7 +16,7 @@
 
 Can be found on telegram as [Lucky](https://t.me/MrSarcasticLoverBot)
 
-Deploy Lover to Heroku:
+Deploy Mr.SarcasticLover to Heroku:
 
 <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/MissJuliaRobot/MissJuliaRobot/tree/master"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
