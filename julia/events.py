@@ -1,4 +1,4 @@
-#    MrSarcasticLover (A Telegram Bot Project)
+#    Mr.SarcasticLover (A Telegram Bot Project)
 #    Copyright (C) 2019-2021 Julia (https://t.me/SarcasticLucky)
 
 #    This program is free software: you can redistribute it and/or modify
