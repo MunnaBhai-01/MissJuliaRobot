@@ -1,5 +1,5 @@
-#    MissJuliaRobot (A Telegram Bot Project)
-#    Copyright (C) 2019-2021 Julia (https://t.me/MissJulia_Robot)
+#    Mr.SarcasticLover (A Telegram Bot Project)
+#    Copyright (C) 2019-2021 Lucky (https://t.me/SarcasticLucky)
 
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as published by
