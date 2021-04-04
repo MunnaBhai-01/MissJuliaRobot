@@ -25,16 +25,5 @@ You may get ban if you ask how to deploy in our support chat.
 
 
 
-## Credits
-**Thanks to these projects which helped me a lot to make this awesome bot**
-
-- [Uniborg](https://github.com/SpEcHiDe/UniBorg)<br />
-- [Telegram Paperplane](https://github.com/RaphielGang/Telegram-Paperplane)<br />
-- [Paperplane Extended](https://github.com/AvinashReddy3108/PaperplaneExtended)<br />
-- [TelethonianBotExt(Silvia)](https://github.com/Lonami/TelethonianBotExt)<br />
-- [tgbot](https://github.com/PaulSonOfLars/tgbot)<br />
-- [Haruka Aya](https://gitlab.com/HarukaNetwork/OSS/HarukaAya)
-
-**Note**: Some repositories may not be present here as they don't have any copyright license or is free to distribute without any license headers under licence such as (Free, MIT, Apache etc.)
 
 **And Last Of All thanks to [@sarcasticlucky](http://t.me/SarcasticLucky) for creating !"
