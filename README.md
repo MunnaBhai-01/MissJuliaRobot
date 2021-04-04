@@ -12,7 +12,7 @@
 
 **Blazingly Fast Telegram Group Management Bot based on [Telethon](https://github.com/LonamiWebs/Telethon) coupled with [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) and [mongodb](https://github.com/mongodb/mongo)**
 
-Can be found on telegram as [Lucky](https://t.me/MrSarcasticLoverBot)
+Can be found on telegram as [Mr.SarcasticLover](https://t.me/MrSarcasticLoverBot)
 
 Deploy Mr.SarcasticLover to Heroku:
 
