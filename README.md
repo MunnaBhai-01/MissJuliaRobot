@@ -15,22 +15,16 @@
 
 **Blazingly fast Telegram Group Management Bot based on [Telethon](https://github.com/LonamiWebs/Telethon) coupled with [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) and [mongodb](https://github.com/mongodb/mongo)**
 
-Can be found on telegram as [Julia](https://t.me/MissJuliaRobot)
+Can be found on telegram as [Lucky](https://t.me/MrSarcasticLoverBot)
 
 Deploy Julia to Heroku:
 
 <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/MissJuliaRobot/MissJuliaRobot/tree/master"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
-For any assistance you may join our OT chat [here](https://t.me/MissJuliaRobotOT)<br />
+For any assistance you may join our OT chat [here](https://t.me/MrSarcasticLoverOT)<br />
 You may get ban if you ask how to deploy in our support chat.
 
-#### Related Channels/Chats ####
-- [@MissJuliaRobotNews](https://t.me/MissJuliaRobotNews)
-- [@MissJuliaRobotSupport](https://t.me/MissJuliaRobotSupport)
-- [@MissJuliaRobotOT](https://t.me/MissJuliaRobotOT)
-- [@MissJuliaRobotMP3](https://t.me/MissJuliaRobotMP3)
-- [@MissJuliaRobotMP4](https://t.me/MissJuliaRobotMP4)
-- [@MissJuliaRobotGbans](https://t.me/MissJuliaRobotGbans)
+
 
 ## Credits
 **Thanks to these projects which helped me a lot to make this awesome bot**
@@ -44,4 +38,4 @@ You may get ban if you ask how to deploy in our support chat.
 
 **Note**: Some repositories may not be present here as they don't have any copyright license or is free to distribute without any license headers under licence such as (Free, MIT, Apache etc.)
 
-**And Last Of All thanks to [@lonami](http://t.me/lonami) for creating [Telethon](https://github.com/LonamiWebs/Telethon) !**
+**And Last Of All thanks to [@sarcasticlucky](http://t.me/SarcasticLucky) for creating !"
